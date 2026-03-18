@@ -438,7 +438,7 @@ body {
     left: -155px;
     /* Creates a 20px gap from the main menu */
     right: auto;
-    width: 135px;
+    width: 200px;
     background: rgba(15, 23, 42, 0.95);
     border-radius: 12px 0 0 12px;
     box-shadow: -4px 0 15px rgba(0, 0, 0, 0.4);
